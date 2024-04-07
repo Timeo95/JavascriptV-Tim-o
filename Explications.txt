@@ -1,0 +1,1 @@
+Le swiper et l'API sont dans les sections Contacts et A propos du site web.

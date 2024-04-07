@@ -1,0 +1,8 @@
+#characters img{
+    background: rgb(113, 1, 87);
+    border: 2px solid rgb(224, 138, 8);
+    width: 25%;
+    height: 550px;
+    border-radius: 50px;
+    object-fit: cover;
+}
