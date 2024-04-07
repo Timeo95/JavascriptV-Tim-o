@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+
+body{
+    background-image: url('Arriere_plan_assombri.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+  
+.custom-text {
+    font-size: 24px;
+    text-align: center;
+}
+
+#nav {
+	padding: 0; margin: 0;
+	text-align: center;
+}
+#nav li {
+	display: inline;
+	list-style: none;
+}
+#nav a {
+	display:inline-block;
+	margin: 0 15px;
+    padding-left: 180px;
+    padding-top: 30px;
+    text-decoration: none;
+    color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+header{
+    display: flex;
+}
+
+main{
+    text-align: center;
+    padding-top: 150px;
+    font-family: "Kaushan Script", cursive;
+}
+
+img#logo {
+	padding: 0;
+	margin: 0;
+	display: block;
+	float:left;
+}
+
+@media screen and (max-width: 800px) {
+
+}
